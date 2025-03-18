@@ -12,7 +12,7 @@ const Home = () => {
         <div className="info-section">
           <motion.h1 {...animations.h1}>
             Hi, I am <br />
-            Dev Palwar
+            Dev Samele
           </motion.h1>
           <motion.h3 {...animations.fade}>A Full Stack Developer</motion.h3>
           <motion.p {...animations.fade}>

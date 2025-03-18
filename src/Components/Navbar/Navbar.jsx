@@ -12,7 +12,7 @@ const Navbar = () => {
   const navLinks = [
     { to: "/", text: "Home" },
     { to: "/about", text: "About Me" },
-    { to: "/exp", text: "Tech Experience" },
+    // { to: "/exp", text: "Tech Experience" },
     { to: "/work", text: "Work" },
   ];
 
@@ -39,7 +39,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="mailto:devpalwar06@gmail.com"
+              href="mailto:devsamele385@gmail.com"
               target="_blank"
               rel="noreferrer"
             >

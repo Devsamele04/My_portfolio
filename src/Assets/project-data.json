@@ -1,149 +1,51 @@
 [
-    {
-        "id": 1,
-        "img": "https://i.ibb.co/ypgLYpg/Screenshot-2024-07-26-185750.png",
-        "heading": "Movies-app",
-        "link": "https://github.com/dev-palwar/Movie-app",
-        "github": "https://github.com/dev-palwar/Movie-app",
-        "tech_Stack": [
-            "react",
-            "sass",
-            "expressjs",
-            "mongodb",
-            "nodejs"
-        ]
-    },
-    {
-        "id": 2,
-        "img": "https://i.ibb.co/rv33Z48/image.png",
-        "heading": "Cool Kids Collective",
-        "link": "https://cool-kids-collective.vercel.app/",
-        "github": "https://github.com/dev-palwar/cool-kids-collective",
-        "tech_Stack": [
-            "nextjs",
-            "tailwindcss",
-            "typescript"
-        ]
-    },
-    {
-        "id": 3,
-        "img": "https://i.ibb.co/K79tQjk/Screenshot-2023-11-30-at-21-01-17-Audiophile.png",
-        "heading": "Audiophile e-comm website",
-        "link": "https://audiophile-react.vercel.app",
-        "github": "https://github.com/dev-palwar/Audiophile-react",
-        "tech_Stack": [
-            "react",
-            "tailwindcss",
-            "redux"
-        ]
-    },
-    {
-        "id": 4,
-        "img": "https://i.ibb.co/k6QcvMJ/image.png",
-        "heading": "Bloggy",
-        "link": "https://blogyapp.vercel.app/",
-        "github": "https://github.com/dev-palwar/Blogging-application-frontend",
-        "tech_Stack": [
-            "nextjs",
-            "tailwindcss",
-            "mongodb",
-            "graphql",
-            "typescript",
-            "react"
-        ]
-    },
-    {
-        "id": 5,
-        "img": "https://nooblinux.com/wp-content/uploads/2023/03/anipy-cli-WatchDownload-Anime-Free-via-Terminal-in-Linux-1-768x432.png",
-        "heading": ">_ Anime cli",
-        "link": "https://github.com/dev-palwar/Anime-cli",
-        "github": "https://github.com/dev-palwar/Anime-cli",
-        "tech_Stack": [
-            "nodejs"
-        ]
-    },
-    {
-        "id": 6,
-        "img": "https://i.ibb.co/3fxSH41/image.png",
-        "heading": "The one you're currently on",
-        "link": "https://devpalwar.vercel.app/",
-        "github": "https://github.com/dev-palwar/Portfolio",
-        "tech_Stack": [
-            "react",
-            "sass"
-        ]
-    },
-    {
-        "id": 7,
-        "img": "https://i.ibb.co/Px0g6rn/Screenshot-2023-12-03-at-15-52-23-Crypto-app.png",
-        "heading": "DCrypto",
-        "link": "https://react-crypto-app1.vercel.app",
-        "github": "https://github.com/dev-palwar/react-crypto-app",
-        "tech_Stack": [
-            "react",
-            "chakraui"
-        ]
-    },
-    {
-        "id": 8,
-        "img": "https://i.ibb.co/Jky0TYy/Typing.png",
-        "heading": "Check your typing speed",
-        "link": "https://typing-tester-rho.vercel.app",
-        "github": "https://github.com/dev-palwar/Typing-tester",
-        "tech_Stack": [
-            "javascript"
-        ]
-    },
-    {
-        "id": 9,
-        "img": "https://i.ibb.co/m8tGb4X/Screenshot-2023-11-30-at-20-08-03-To-dos.png",
-        "heading": "To-do app",
-        "link": "https://mytodolistapp0.vercel.app/",
-        "github": "https://github.com/dev-palwar/To-do_list-app",
-        "tech_Stack": [
-            "javascript",
-            "webpack"
-        ]
-    },
-    {
-        "id": 10,
-        "img": "https://i.ibb.co/dmn1VL2/Screenshot-2023-11-30-at-20-14-20-Dictionary.png",
-        "heading": "Dictionary app",
-        "link": "https://dev-palwar.github.io/DictionaryApp/",
-        "github": "https://github.com/dev-palwar/DictionaryApp",
-        "tech_Stack": [
-            "javascript"
-        ]
-    },
-    {
-        "id": 11,
-        "img": "https://i.ibb.co/6JdDZjS/Screenshot-2023-11-30-at-20-18-20-Thumbnail-download.png",
-        "heading": "Youtube thumbnail downloader",
-        "link": "https://dev-palwar.github.io/Thumbnail-downloader/",
-        "github": "https://github.com/dev-palwar/Thumbnail-downloader",
-        "tech_Stack": [
-            "javascript"
-        ]
-    },
-    {
-        "id": 12,
-        "img": "https://d317jr06u12xtj.cloudfront.net/2023/01/Top-Chrome-Extensions-Social.png",
-        "heading": "Text Translator Extension",
-        "link": "https://github.com/dev-palwar/translate-extension",
-        "github": "https://github.com/dev-palwar/translate-extension",
-        "tech_Stack": [
-            "javascript"
-        ]
-    },
-    {
-        "id": 13,
-        "img": "https://i.ibb.co/2Ss63V9/twt-follow-all-ext.webp",
-        "heading": "Twitter follow-all extension",
-        "link": "https://github.com/dev-palwar/twt-follow-all-extension",
-        "github": "https://github.com/dev-palwar/twt-follow-all-extension",
-        "tech_Stack": [
-            "typescript",
-            "react"
-        ]
-    }
+  {
+    "id": 1,
+    "img": "https://i.postimg.cc/DZ3rwvSS/equillibrium.png",
+    "heading": "Amazing-Website",
+    "link": "https://devsamele04.github.io/Sheryjs-project/",
+    "github": "https://github.com/Devsamele04/Sheryjs-project",
+    "tech_Stack": ["HTML", "Css", "Tailwindcss", "javascript", "SheryJs"]
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/XYCpxXcX/image.png",
+    "heading": "Magma-Website",
+    "link": "https://devsamele04.github.io/Dev-s_magma/",
+    "github": "https://github.com/Devsamele04/Dev-s_magma",
+    "tech_Stack": ["HTML", "Css", "tailwindcss", "javascript", "canvas"]
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/DfMm1qk1/feed.png",
+    "heading": "Feedspring-Website",
+    "link": "https://devsamele04.github.io/Feedspring-web/",
+    "github": "https://github.com/Devsamele04/Feedspring-web",
+    "tech_Stack": ["HTML", "tailwindcss"]
+  },
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/J0BnrccN/sdn.png",
+    "heading": "Sundown",
+    "link": "https://devsamele04.github.io/sundown/",
+    "github": "https://github.com/Devsamele04/sundown",
+    "tech_Stack": ["HTML", "Css", "tailwindcss", "javascript"]
+  },
+  {
+    "id": 5,
+    "img": "https://i.postimg.cc/CLMZntH1/rlclk.png",
+    "heading": ">_ RealTime_clock",
+    "link": "  https://devsamele04.github.io/Realtime-Clock/",
+    "github": "https://github.com/Devsamele04/Realtime-Clock",
+    "tech_Stack": ["HTML", "Css", "javascript"]
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/3fxSH41/image.png",
+    "heading": "The one you're currently on",
+    "link": "https://devpalwar.vercel.app/",
+    "github": "https://github.com/dev-palwar/Portfolio",
+    "tech_Stack": ["react", "sass"]
+  }
+  
 ]

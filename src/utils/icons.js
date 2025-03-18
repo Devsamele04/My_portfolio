@@ -59,12 +59,12 @@ export const SkillsIcons = [
     skill: "typescript",
     name: "TypeScript",
   },
-  {
-    Component: BiLogoGraphql,
-    color: "#e535ab",
-    skill: "graphql",
-    name: "GraphQL",
-  },
+  // {
+  //   Component: BiLogoGraphql,
+  //   color: "#e535ab",
+  //   skill: "graphql",
+  //   name: "GraphQL",
+  // },
   {
     Component: BiLogoJava,
     color: "#f89820",

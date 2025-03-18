@@ -11,17 +11,17 @@ const socialIcons = [
   {
     Component: AiOutlineGithub,
     color: "#4078c0",
-    link: "https://github.com/dev-palwar",
+    link: "https://github.com/Devsamele04",
   },
   {
     Component: AiFillTwitterCircle,
     color: "#26a7de",
-    link: "https://twitter.com/dev_palwar2",
+    link: "https://twitter.com/Dev_samele",
   },
   {
     Component: AiFillLinkedin,
     color: "#0072b1",
-    link: "https://www.linkedin.com/in/dev-palwar/",
+    link: "https://linkedin.com/in/dev-samele-838544285",
   },
   // {
   //   Component: SiLeetcode,
