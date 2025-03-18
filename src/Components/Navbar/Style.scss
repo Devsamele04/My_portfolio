@@ -120,10 +120,11 @@ button {
   padding: 12px 28px;
   background-color: $primaryColor;
   cursor: pointer;
+  font-weight: 600;
   transition: all 0.3s;
 
   &:hover {
     background-color: white;
-    color: $buttonText;
+    color: black;
   }
 }
