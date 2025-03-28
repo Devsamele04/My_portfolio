@@ -41,19 +41,26 @@
   },
   {
     "id": 6,
+    "img": "https://files.catbox.moe/w06nho.png",
+    "heading": "Startech_project",
+    "link": "  https://devsamele04.github.io/Startech_project/",
+    "github": "https://github.com/Devsamele04/Startech_project",
+    "tech_Stack": ["HTML", "Css", "javascript"]
+  },
+  {
+    "id": 7,
     "img": "https://files.catbox.moe/j04xix.png",
     "heading": "Mackbook Pro",
     "link": " https://3-js-m-ac.vercel.app/",
     "github": "https://github.com/Devsamele04/3JS-mAc",
-    "tech_Stack": ["react","react-Three-Fibre", "Css"]
+    "tech_Stack": ["react", "react-Three-Fibre", "Css"]
   },
   {
-    "id": 7,
+    "id": 8,
     "img": "https://files.catbox.moe/3gugrv.png",
     "heading": "The one you're currently on",
     "link": "https://my-portfolio-pearl-one-64.vercel.app/",
     "github": "https://github.com/Devsamele04/My_portfolio",
     "tech_Stack": ["react", "sass"]
   }
-  
 ]
