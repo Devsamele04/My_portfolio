@@ -57,6 +57,22 @@
   },
   {
     "id": 8,
+    "img": "https://files.catbox.moe/z1fwnu.png",
+    "heading": "Thirtysixstudio",
+    "link": "https://thirtysixstudio-cpom.vercel.app/",
+    "github": "https://github.com/Devsamele04/thirtysixstudio",
+    "tech_Stack": ["react", "canvas"]
+  },
+  {
+    "id": 9,
+    "img": "https://files.catbox.moe/b0nrfr.png",
+    "heading": "Ecommerce Website",
+    "link": "https://react-ecommerce-iota-umber.vercel.app/",
+    "github": "https://github.com/Devsamele04/React-Ecommerce",
+    "tech_Stack": ["react"]
+  },
+  {
+    "id": 10,
     "img": "https://files.catbox.moe/3gugrv.png",
     "heading": "The one you're currently on",
     "link": "https://my-portfolio-pearl-one-64.vercel.app/",
