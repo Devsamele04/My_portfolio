@@ -73,6 +73,22 @@
   },
   {
     "id": 10,
+    "img": "https://files.catbox.moe/l5bh0c.png",
+    "heading": "Ytgta",
+    "link": "https://ytgta-6-dnts.vercel.app/",
+    "github": "https://github.com/Devsamele04/ytgta-6",
+    "tech_Stack": ["react"]
+  },
+  {
+    "id": 11,
+    "img": "https://files.catbox.moe/ptrhpv.png",
+    "heading": "Khatabook",
+    "link": "https://khatabook-pink.vercel.app/",
+    "github": "https://github.com/Devsamele04/khatabook",
+    "tech_Stack": ["nodejs", "expressjs", "fs" ]
+  },
+  {
+    "id": 12,
     "img": "https://files.catbox.moe/3gugrv.png",
     "heading": "The one you're currently on",
     "link": "https://my-portfolio-pearl-one-64.vercel.app/",
